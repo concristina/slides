@@ -1,4 +1,4 @@
-Carreros - Herramientas para generar slides
+Herramientas para generar slides
 ===========================================
 
 Usa [backslide](https://github.com/sinedied/backslide) para generar presentaciones a partir de archivos markdown.
