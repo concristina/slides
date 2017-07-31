@@ -1,11 +1,21 @@
-title: Capacitacion Fiscales Córdoba
+title: Capacitacion Fiscales 
+layout:true
+.bottom-bar[
+  {{title}} - Frente Córdoba Ciudadana
+]
 
+---
 background-image: url(img/cfk-carro-s.png)
-
 
 # Frente Córdoba Ciudadana
 
 ## Elecciones 2017
+
+---
+class: impact 
+
+## Elecciones Primarias
+# 13 de Agosto
 
 ---
 
@@ -46,13 +56,6 @@ El sufragio es obligatorio a partir de los 18 años de edad. Para las personas d
 ???
 Como resultado de las PRIMARIAS, cada agrupación política podrá intervenir en la elección en octubre postulando a quienes hayan resultado electos, siempre que haya obtenido como mínimo el 1,5% de los votos válidos a nivel nacional.
 
----
-class: impact 
-
-## Elecciones Primarias
-# 13 de Agosto
-
----
 
 ## Documentación habilitante para votar:
 
@@ -73,8 +76,11 @@ class: impact
 # Fiscales
 
 ---
-
-layout: true
+title: Capacitacion Fiscales 
+layout:true
+.bottom-bar[
+  {{title}} - Frente Córdoba Ciudadana
+]
 
 # Fiscales
  
@@ -173,7 +179,11 @@ class: impact
 # Apertura
 
 ---
+title: Capacitacion Fiscales 
 layout: true
+.bottom-bar[
+  {{title}} - Frente Córdoba Ciudadana
+]
 
 # Apertura
 
@@ -278,8 +288,11 @@ class: impact
 NO ABANDONE el cuidado de la URNA. En caso de que deba retirarse de la mesa espere a que llegue al lugar el compañero que lo reemplazará.
 
 ---
-
+title: Capacitacion Fiscales 
 layout:true
+.bottom-bar[
+  {{title}} - Frente Córdoba Ciudadana
+]
 
 # Revision del Cuarto Oscuro
 
@@ -339,8 +352,23 @@ El sobre con el Voto Impugnado debe colocarse en la urna junto con el resto de l
 
 
 ---
+layout:false
+class: impact
+# Escrutinio
 
-# Escrutinio de la Mesa
+---
+
+title: Capacitacion Fiscales 
+layout:true
+.bottom-bar[
+  {{title}} - Frente Córdoba Ciudadana
+]
+
+# Escrutinio
+
+---
+
+## Escrutinio de la Mesa
 
 A las 18:00 hs. - nunca antes- se cerrará el acceso al establecimiento, pero deberá permitir el voto de los electores que hubieran ingresado.
 
@@ -351,7 +379,7 @@ El único autorizado para operar y contar tanto los sobre cuanto los votos  son 
 
 ---
 
-# Apertura de Urna:
+## Apertura de Urna:
 
 Se ingresará al cuarto oscuro. Es muy importante que antes de
  empezar se guarde las boletas y sobres que NO fueron utilizados en el sobre marrón a disposición del Presidente de Mesa.
@@ -360,7 +388,7 @@ El presidente de mesa deberá registrar en el acta de escrutinio el número de s
 
 ---
 
-# Apertura de Sobres:
+## Apertura de Sobres:
 
 Se deberá separar los sobres con votos de identidad impugnada del resto.
 Luego el Presidente de Mesa abrirá los sobres (que colocará dentro de la urna, una vez finalizado el escrutinio) y extraerá las boletas.
@@ -369,7 +397,7 @@ Escrutinio de la Mesa
 
 ---
 
-# Voto Valido
+## Voto Valido
 
 1. Es emitido mediante boleta oficializada.
 
@@ -381,7 +409,7 @@ Es el regularmente emitido, ya sea a favor de una agrupación determinada o en b
 
 ---
 
-# Voto en Blanco
+## Voto en Blanco
 
 
 1. El sobre esté vacío o contenga un trozo de papel de cualquier color sin inscripción alguna.
@@ -390,7 +418,7 @@ Es el regularmente emitido, ya sea a favor de una agrupación determinada o en b
 
 ---
 
-# Voto Nulo
+## Voto Nulo
 
 1. Se emite mediante una boleta no oficializada. Ante cualquier duda consulte las boletas oficializadas que le remitió la Junta Electoral.
 
@@ -401,7 +429,7 @@ Es el regularmente emitido, ya sea a favor de una agrupación determinada o en b
 
 ---
 
-# Voto Recurrido
+## Voto Recurrido
 
 Es aquél cuya validez o nulidad sea cuestionada por uno o más Fiscales Partidarios.
 
@@ -415,7 +443,7 @@ En este caso se procede de la siguiente manera:
 
 ---
 
-# Diligencias Finales
+## Diligencias Finales
 
 Luego de que todos los votos fueran clasificados y sumados, el Presidente de Mesa culminará la jornada, llenando la siguiente documentación:
 
@@ -428,22 +456,34 @@ Luego de que todos los votos fueran clasificados y sumados, el Presidente de Mes
 4. el Telegrama
 
 ---
-
+layout: false
+class: impact
 # Importante
 
+.left[
+Antes de firmar:
+- Verifique la corrección de los resultados.
+- Controle que el acta sea firmada por la autoridad de mesa.
+- Requerir un **Certificado de escrutinio**.
+- Cierre el sobre de **Devolucion de Actas**
+
+]
+
+
+???
 Antes de firmar el acta de escrutinio, verifique la corrección de los resultados obtenidos para cada partido político, del total de los sobres y de  la cantidad de votantes. No firme las Actas en blanco.
- Controle que dicha acta sea firmada por las autoridades de mesa y por el resto de los fiscales de los partidos políticos que hayan intervenido en el recuento.
+Controle que dicha acta sea firmada por las autoridades de mesa y por el resto de los fiscales de los partidos políticos que hayan intervenido en el recuento.
 Requerir al Presidente de Mesa un Certificado del Escrutinio con los resultados que consten en el Acta. No se retire del lugar hasta que se encuentre firmado y se lo haya podido entregar al responsable electoral en su escuela.
 
 El sobre de Devolución de Actas debe cerrarse correctamente, ser firmado por las Autoridades de Mesa, Usted y los demás Fiscales, entregándose en mano al empleado del Correo al mismo tiempo que se entrega la urna.
 
 ---
 
-Importante
+layout: false
+class: impact
+# Importante
 
-IMPORTANTE: recuerden inscribirse en el siguiente 
-
-[Formulario de inscripcion como fiscal](https://docs.google.com/forms/d/e/1FAIpQLSfCr6YeSYJ4vLgLbuibNFfUfq9rOFeLUBsR2eU7nSHZPMlXlg/viewform)
+[Inscribase formulario de inscripcion como fiscal](https://docs.google.com/forms/d/e/1FAIpQLSfCr6YeSYJ4vLgLbuibNFfUfq9rOFeLUBsR2eU7nSHZPMlXlg/viewform)
 
 
 Tenemos la tarea de multiplicar fiscales en estos días para poder cubrir TODAS las mesas de la provincia.
