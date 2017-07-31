@@ -50,8 +50,8 @@ El sufragio es obligatorio a partir de los 18 años de edad. Para las personas d
 ## Cual es el resultado?
 
 - Determinar las agrupaciones que intervienen en las elecciones de Octubre.
-- Elegir los candidates que compiten en internas de cada agrupacion.
-- Es necesario superar un mínimo del 1,5% de los votos valdos.
+- Elegir los candidatos que compiten en internas de cada agrupación.
+- Es necesario superar un mínimo del 1,5% de los votos válidos.
 
 ???
 Como resultado de las PRIMARIAS, cada agrupación política podrá intervenir en la elección en octubre postulando a quienes hayan resultado electos, siempre que haya obtenido como mínimo el 1,5% de los votos válidos a nivel nacional.
@@ -99,7 +99,7 @@ NO SON AUTORIDADES DE MESA, son representantes de las agrupaciones políticas qu
 
 - Verificar las disposiciones.
 - Reportar incumplimientos.
-- Dejar constancias.
+- Dejar constancias ante las autoridades de mesa.
 
 ???
 La mision como fiscal es la de controlar y la de verificar, durante todo el transcurso del acto eleccionario, si las disposiciones legales que lo rigen se cumplen en su integridad. 
@@ -127,8 +127,8 @@ Deben presentarse ante la Autoridad de la Mesa con el poder que los acredita com
 
 - Entrar y salir de la Escuela.
 - Pedir examinar el cuarto oscuro.
-- Entregar las **boletas**. 
-- Estar **presentes**.
+- Entregar las **boletas** a las autoridades. 
+- Estar **presentes** en el inicio y cierre del acto electoral.
 
 ???
 Entrar y salir libremente del edificio y pedir al Presidente de Mesa que examine el cuarto oscuro cuantas veces consideren necesario
@@ -179,6 +179,11 @@ class: impact
 # Apertura
 
 ---
+
+class: full
+.fit-image[![Acta de apertura](img/acta-apertura.png)]
+
+---
 title: Capacitacion Fiscales 
 layout: true
 .bottom-bar[
@@ -188,13 +193,12 @@ layout: true
 # Apertura
 
 ---
-
 ## Sus tareas como fiscal
 
 - Llegar puntual (llevar DNI)
 - Tomar contacto con su Fiscal General
 - Presentar su poder a la Autoridad de Mesa.
-- Cotejar las boletas.
+- Cotejar y las boletas del **Frente Córdoba Ciudadana**.
 - Controlar el procedimiento
 
 ???
@@ -344,11 +348,14 @@ layout: false
 
 # Impugnación del Voto
 
-Si la Autoridad de Mesa o algún Fiscal de la Mesa tiene razones para creer que el Elector ha falseado su identidad -es decir, que no es el titular del documento que exhibe-, puede impugnar su voto. En tal caso, siempre se admite el voto pero se procederá a completar los claros del Formulario y el Sobre para Voto Impugnado, colocando el formulario dentro de este sobre y entregándoselo junto con el sobre de votación común donde introducirá su preferencia para luego ponerlo dentro del sobre especial. El Elector no podrá retirar el formulario del sobr y, si lo hiciere, se presumirá la veracidad de la impugnación.
+- Sucede en caso de que la Autoridad de Mesa o el Fiscal dude de la identidad del Elector.
+- Se admite el voto pero se procederá a completar el **Formulario** y el **Sobre para Voto Impugnado**.
+- El sobre se coloca junto a la urna, pero **no** sera abierto durante el escrutinio
 
---
+???
+Si la Autoridad de Mesa o algún Fiscal de la Mesa tiene razones para creer que el Elector ha falseado su identidad -es decir, que no es el titular del documento que exhibe-, puede impugnar su voto. En tal caso, siempre se admite el voto pero se procederá a completar los claros del Formulario y el Sobre para Voto Impugnado, colocando el formulario dentro de este sobre y entregándoselo junto con el sobre de votación común donde introducirá su preferencia para luego ponerlo dentro del sobre especial. El Elector no podrá retirar el formulario del sobre y, si lo hiciere, se presumirá la veracidad de la impugnación.
 
-El sobre con el Voto Impugnado debe colocarse en la urna junto con el resto de los votos, pero no será abierto en el escrutinio de Mesa. Oportunamente, la Junta Electoral Nacional decidirá sobre su validez o nulidad.
+El sobre con el Voto Impugnado debe colocarse en la urna junto con el resto de los votos, pero no será abierto en el escrutinio de Mesa. Oportunamente, la Junta Electoral Nacional decidirá sobre su **validez** o nulidad.
 
 
 ---
@@ -357,7 +364,10 @@ class: impact
 # Escrutinio
 
 ---
+class: full
+.fit-image[![Acta de escrutinio](img/certificado-escrutinio.png)]
 
+---
 title: Capacitacion Fiscales 
 layout:true
 .bottom-bar[
@@ -368,7 +378,15 @@ layout:true
 
 ---
 
+
 ## Escrutinio de la Mesa
+
+- A partir de las **18:00 hs**. se cierra el establecimiento.
+- Debera permitirse el voto a quienes hayan ingreso hasta la hora.
+- Se tachan del padron quienes no hayan votado.
+- Requiere especial **atencion** y **actitud**.
+
+???
 
 A las 18:00 hs. - nunca antes- se cerrará el acceso al establecimiento, pero deberá permitir el voto de los electores que hubieran ingresado.
 
@@ -381,8 +399,13 @@ El único autorizado para operar y contar tanto los sobre cuanto los votos  son 
 
 ## Apertura de Urna:
 
-Se ingresará al cuarto oscuro. Es muy importante que antes de
- empezar se guarde las boletas y sobres que NO fueron utilizados en el sobre marrón a disposición del Presidente de Mesa.
+- Sucede en el cuarto oscuro.
+- Guardar boletas y sobres no utilizados en el **sobre marron** a disposición del Presidente de Mesa.
+- Registrar el **número de sobres** y la diferencia con la **cantidad de votantes**.
+- Comparar el **resultado** con la cantidad de electores.
+
+???
+Se ingresará al cuarto oscuro. Es muy importante que antes de empezar se guarde las boletas y sobres que NO fueron utilizados en el sobre marrón a disposición del Presidente de Mesa.
 Cuando no quede ningún otro elemento la autoridad de mesa procederá a abrir la urna.
 El presidente de mesa deberá registrar en el acta de escrutinio el número de sobres  y la diferencia con la cantidad de votantes, si la hubiese. El resultado del conteo debe ser comparado con el número de electores que emitieron su voto.
 
@@ -390,10 +413,17 @@ El presidente de mesa deberá registrar en el acta de escrutinio el número de s
 
 ## Apertura de Sobres:
 
+- Separar sobres impugnados del resto. No abrirlos
+- Abrir el resto de los sobres y clasificarlos segun:
+ - Válidos.
+ - En blanco.
+ - Nulos.
+ - Recurridos.
+
+???
 Se deberá separar los sobres con votos de identidad impugnada del resto.
 Luego el Presidente de Mesa abrirá los sobres (que colocará dentro de la urna, una vez finalizado el escrutinio) y extraerá las boletas.
 Cada uno de los votos debe ser clasificado en una de las siguientes categorías: votos válidos, votos en blanco,  votos nulos, votos recurridos y votos de identidad impugnada.
-Escrutinio de la Mesa
 
 ---
 
@@ -431,11 +461,9 @@ Es el regularmente emitido, ya sea a favor de una agrupación determinada o en b
 
 ## Voto Recurrido
 
-Es aquél cuya validez o nulidad sea cuestionada por uno o más Fiscales Partidarios.
+Es aquél cuya validez o nulidad sea **cuestionada** por uno o más Fiscales Partidarios.
 
-En este caso se procede de la siguiente manera:
-
-1. El Fiscal deberá fundamentar su pedido con “expresión concreta de la causa”.
+1. El Fiscal deberá fundamentar su pedido con **expresión concreta de la causa**.
 
 2. Los motivos se asentarán sumariamente en un volante especial  provisto por la Junta Electoral, que deberá ser firmado por el o los Fiscales recurrentes, consignando a su vez su nombre y apellido, número de documento cívico, domicilio y partido político al que pertenece.
 
