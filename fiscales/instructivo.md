@@ -9,7 +9,7 @@ background-image: url(img/cfk-carro-s.png)
 
 ---
 
-class: impact 
+class: impact
 
 ## Capacitación para autoridades de mesas de votación
 
@@ -37,7 +37,7 @@ Son Funcionarios Públicos Electorales los Fiscales Públicos Electorales y las 
 
 --
 
-- Son designados por la Justicia Electoral Provincial para dirigir y conducir el acto eleccionario. 
+- Son designados por la Justicia Electoral Provincial para dirigir y conducir el acto eleccionario.
 
 - Revisten la calidad de funcionarios ya que actúan en nombre y representación del Estado.
 
@@ -99,13 +99,19 @@ Dispone de las fuerzas de seguridad en todo lo atinente a la mesa de votación a
 class:impact
 
 # de 7.30 a 8.00 hs.
-## Recepción de la Urna e Instalación de la Mesa 
+## Recepción de la Urna e Instalación de la Mesa
 
 ---
 layout:true
 
 ### **de 7.30 a 8.00 hs.**
-# Recepción de la Urna e Instalación de la Mesa 
+# Recepción de la Urna e Instalación de la Mesa
+
+---
+class: full
+
+.center[.fit-image[![Acta de apertura](img/acta-apertura.png)]]
+
 
 ---
 
@@ -156,13 +162,13 @@ layout:false
 class:impact
 
 # de 8.00 a 18.00 hs.
-## Emisión de los Sufragios 
+## Emisión de los Sufragios
 
 ---
 layout:true
 
-### **de 8.00 a 18.00 hs.** 
-# Emisión de los Sufragios 
+### **de 8.00 a 18.00 hs.**
+# Emisión de los Sufragios
 
 ---
 
@@ -184,7 +190,7 @@ En caso de no estar inscriptos en el Padrón de la Mesa (Presidente y Suplente, 
 
 --
 
-En ningún caso se puede agregar más de un (1) fiscal por partido, alianza o confederación política en la misma mesa receptora de 
+En ningún caso se puede agregar más de un (1) fiscal por partido, alianza o confederación política en la misma mesa receptora de
 
 ---
 
@@ -210,7 +216,7 @@ Quienes **no se presenten** con su documento cívico habilitante.
 
 --
 
-Quienes se presenten a votar con un **DOCUMENTO ANTERIOR** al que figura en el Padrón. 
+Quienes se presenten a votar con un **DOCUMENTO ANTERIOR** al que figura en el Padrón.
 
 ???
 Por ejemplo, si figura en el padrón con un DNI “ejemplar B” (nueva denominación) y se presenta con un DNI “ejemplar A”.
@@ -223,9 +229,9 @@ Quién ejerce la **presidencia** de la mesa, por iniciativa propia o a **pedido 
 
 ---
 
-## Orden de votación: 
+## Orden de votación:
 
-Los electores votan en el orden de su llegada a la mesa correspondiente, a cuyo efecto deben formar fila de a uno. La mesa dará preferencia a: 
+Los electores votan en el orden de su llegada a la mesa correspondiente, a cuyo efecto deben formar fila de a uno. La mesa dará preferencia a:
 
 - Mujeres embarazadas;
 - Minusválidos y enfermos;
@@ -307,7 +313,7 @@ El presidente de mesa o los fiscales tienen derecho a impugnar el voto del compa
 
 --
 
-En esta alternativa se debe exponer concretamente el motivo de la impugnación, labrándose un acta firmada por el presidente de mesa y el o los impugnantes y tomándose nota sumaria en la columna de observaciones del padrón. 
+En esta alternativa se debe exponer concretamente el motivo de la impugnación, labrándose un acta firmada por el presidente de mesa y el o los impugnantes y tomándose nota sumaria en la columna de observaciones del padrón.
 
 ---
 
@@ -349,17 +355,28 @@ Los Fiscales de Mesa, sólo observan el acto pero no deben realizar ninguna tare
 
 ---
 
+class: full
+.center[.fit-image[![Acta de escrutinio](img/certificado-escrutinio.png)]]
+
+---
+
 ## Procedimiento:
 
 Las autoridades de mesas deberán seguir los siguientes pasos:
 
-1. Abrir la urna, extraer y contar todas las Boletas.
-2. Constatar que el número de Boletas extraídas de la urna coincida con el número de sufragantes.
-3. Verificar que las Boletas estén correctamente rubricadas con su firma.
-4. Separar los sobres-formularios de votos impugnados (NO abrirlos).
-5. Desdoblar cada Boleta y leer en voz alta el voto. Los fiscales pueden examinar la Boleta.
-6. Utilizar herramienta de conteo que considere más práctica. Ej.: el pizarrón.
-7. Sellar cada Boleta con una leyenda que dirá “escrutada”.
+- Abrir la urna, extraer y contar todas las Boletas.
+- Constatar que el número de Boletas extraídas de la urna coincida con el número de sufragantes.
+- Verificar que las Boletas estén correctamente rubricadas con su firma.
+
+---
+## Procedimiento:
+
+Las autoridades de mesas deberán seguir los siguientes pasos:
+
+- Separar los sobres-formularios de votos impugnados (NO abrirlos).
+- Desdoblar cada Boleta y leer en voz alta el voto. Los fiscales pueden examinar la Boleta.
+- Utilizar herramienta de conteo que considere más práctica. Ej.: el pizarrón.
+- Sellar cada Boleta con una leyenda que dirá “escrutada”.
 
 ---
 
@@ -367,9 +384,14 @@ Las autoridades de mesas deberán seguir los siguientes pasos:
 
 Cada boleta se puede clasificar en las siguientes categorías:
 
+--
 - **Voto Válido**: Es el emitido mediante Boleta oficializada, y la voluntad del elector se expresa mediante la inserción de una cruz, tilde o símbolo similar en el casillero correspondiente para cada categoría de candidato o lista completa.
 
---
+---
+class: full
+.center[![Voto Pablo Carro](img/voto-s.png)]
+
+---
 
 - **Voto en Blanco**: Es aquel emitido mediante Boleta oficializada en la que todos o algunos de los casilleros destinados a la inserción de cruz, tilde o símbolo similar, se encuentra sin marcar.
 
@@ -401,7 +423,7 @@ a partir de las 18.00 hs.
 
 ---
 
-## Documentos a confeccionar: 
+## Documentos a confeccionar:
 Luego de clasificar y sumar las boletas, el Presidente de mesa debe llenar la siguiente documentación:
 
 - Acta de clausura y escrutinio

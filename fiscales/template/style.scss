@@ -6,7 +6,7 @@ $secondary        : #59C0DC;
 $tertiary         : #FFC50A;
 $light            : #FFF;
 $dark             : #333;
-$text-dark        : #212121; 
+$text-dark        : #212121;
 $text-light       : $light;
 $code-background  : #F8F8F8;
 $overlay          : transparentize(#000, .5);
@@ -112,7 +112,7 @@ ul {
 }
 
 .bottom-bar {
-  text-shadow: 1px 1px 1px #FFF, -1px 1px 1px #FFF, 1px -1px 1px #FFF, -1px -1px 1px #FFF; 
+  text-shadow: 1px 1px 1px #FFF, -1px 1px 1px #FFF, 1px -1px 1px #FFF, -1px -1px 1px #FFF;
   color: $primary;
   position: absolute;
   bottom: 0;
@@ -160,6 +160,7 @@ ul {
 .left { text-align: left; }
 .right { text-align: right; }
 .center { text-align: center; }
+.full .center { margin-top: -15%}
 .justify { text-align: justify; }
 .primary { color: $primary; }
 .alt { color: $secondary; };
